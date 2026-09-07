@@ -18,7 +18,7 @@
 This is a **showcase repository** for a private project. The full source code, trained model weights, and training pipeline live in a private repo. This page exists so recruiters and collaborators can see the project, try the live demo, and review how it works — without the source being publicly clonable.
 
 > **📩 Want to see the code or run it yourself?**
-> Send a request to **[Email](mailto:imjs1137@gmail.com)** or connect on **[LinkedIn](https://aicanvas.streamlit.app/)** and I'll grant repo access.
+> Send a request to **[Email](mailto:imjs1137@gmail.com)** or connect on **[LinkedIn]([https://aicanvas.streamlit.app/](https://in.linkedin.com/in/jatinsoni1137)** and I'll grant repo access.
 
 ---
 
